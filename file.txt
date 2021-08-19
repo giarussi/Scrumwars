@@ -1,1 +1,3 @@
 If you are about to lose your mind because Git is kicking your butt, you are not alone.
+
+I was able to pull this from git bash. Testing push and pull. 
